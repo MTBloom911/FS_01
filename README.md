@@ -75,6 +75,8 @@ En resumen, VS Code es un editor de código fuente gratuito y de código abierto
 
 ## BONUS!!
 
+Como desarrollador, el saber buscar información es esencial para poder resolver problemas y desarrollar proyectos de manera efectiva. En el mundo de la programación, es imposible saber todas las respuestas y conocer todas las soluciones posibles, por lo que los desarrolladores deben recurrir a recursos externos como la documentación oficial, foros de discusión, tutoriales y blogs para encontrar las respuestas a sus preguntas. Además, el saber buscar información adecuada y confiable también ayuda a los desarrolladores a mantenerse actualizados en las últimas tendencias y tecnologías de la industria, lo que les permite estar al día y desarrollar proyectos de alta calidad y eficiencia. En resumen, el saber buscar información es una habilidad crítica para cualquier desarrollador, ya que les permite ser más efectivos y exitosos en su trabajo.
+
 
 - [ ] Investiga como conectar VS Code con tu cuenta de Github
 - [ ] Investiga como "Forkearte" este repositorio y clonarlo en tu vscode
